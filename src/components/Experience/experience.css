@@ -16,7 +16,7 @@
     background: transparent;
     border-color: var(--colors-primary-variant);
     cursor: default;
-};
+}
 
 .experience__container > div h3 {
     text-align: center;
