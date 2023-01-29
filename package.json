@@ -1,5 +1,6 @@
 {
   "name": "portfolioapp",
+  "homepage": "http://zmartzeesolution.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

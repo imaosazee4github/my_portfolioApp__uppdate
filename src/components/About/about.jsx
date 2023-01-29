@@ -46,7 +46,7 @@ const about = () => {
           <br />
 
           <a href='#contacts' className='btn btn-primary'>Contacts</a>
-          <a href="#portfolio" className='btn btn-primary'>Projects</a>
+          <a href="#portfolio" className='btn btn-primary'>Portfolio</a>
           </div>
       </div>
 

@@ -1,9 +1,9 @@
 /* eslint-disable react/jsx-no-target-blank */
 import React from 'react'
 import './portfolio.css'
-import img1 from '../../assets/project1.jpg'
+import img1 from '../../assets/demo1.jpg'
 import img2 from '../../assets/project2.jpg'
-import img3 from '../../assets/project3.jpg'
+import img3 from '../../assets/demo1.jpg'
 
 const data = [
   {
